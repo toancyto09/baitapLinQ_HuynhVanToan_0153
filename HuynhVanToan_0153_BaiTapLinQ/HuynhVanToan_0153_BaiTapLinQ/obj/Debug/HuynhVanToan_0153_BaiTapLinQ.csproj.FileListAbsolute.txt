@@ -1,0 +1,7 @@
+D:\C#\HuynhVanToan_0153_BaiTapLinQ\HuynhVanToan_0153_BaiTapLinQ\bin\Debug\HuynhVanToan_0153_BaiTapLinQ.exe.config
+D:\C#\HuynhVanToan_0153_BaiTapLinQ\HuynhVanToan_0153_BaiTapLinQ\bin\Debug\HuynhVanToan_0153_BaiTapLinQ.exe
+D:\C#\HuynhVanToan_0153_BaiTapLinQ\HuynhVanToan_0153_BaiTapLinQ\bin\Debug\HuynhVanToan_0153_BaiTapLinQ.pdb
+D:\C#\HuynhVanToan_0153_BaiTapLinQ\HuynhVanToan_0153_BaiTapLinQ\obj\Debug\HuynhVanToan_0153_BaiTapLinQ.csproj.AssemblyReference.cache
+D:\C#\HuynhVanToan_0153_BaiTapLinQ\HuynhVanToan_0153_BaiTapLinQ\obj\Debug\HuynhVanToan_0153_BaiTapLinQ.csproj.CoreCompileInputs.cache
+D:\C#\HuynhVanToan_0153_BaiTapLinQ\HuynhVanToan_0153_BaiTapLinQ\obj\Debug\HuynhVanToan_0153_BaiTapLinQ.exe
+D:\C#\HuynhVanToan_0153_BaiTapLinQ\HuynhVanToan_0153_BaiTapLinQ\obj\Debug\HuynhVanToan_0153_BaiTapLinQ.pdb
